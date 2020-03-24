@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+	text-align: center;
+}
+.jumbotron.jumbotron-fluid.text-center .lead {
+	text-align: center;
+}
+.jumbotron.jumbotron-fluid.text-center p {
+	text-align: center;
+}
+.jumbotron.jumbotron-fluid.text-center .lead .btn.btn-primary.btn-lg {
+
+}
+.row.text-center .col-lg-6.offset-lg-3 {
+	text-align: center;
+}
+
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+	text-decoration: none;
+	list-style-type: none;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+	text-align: center;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+	float: left;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark #navbarSupportedContent .form-inline.my-2.my-lg-0 {
+	float: right;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+	float: right;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+	padding-top: 30px;
+}
+body p {
+	background-color: #91DCF7;
+}
+body p {
+	background-color: #91DCF7;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+	color: #F8F7F7;
+	font-size: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+}
+#navegation {
+	text-align: center;
+	text-decoration: none;
+	font-family: artifika;
+	font-style: normal;
+	font-weight: 400;
+	color: #050505;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	position: static;
+	padding-left: 20px;
+}
+#navegation a {
+	color: #020202;
+	font-family: artifika;
+	font-style: normal;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+#navegation a:hover {
+	background-color: antiquewhite
+}#navegation {
+	text-align: left;
+}
+#navegation p a {
+	color: #470C90;
+}
+.jumbotron.jumbotron-fluid.text-center .lead .btn.btn-primary.btn-lg {
+	color: #F7F7F7;
+}
+
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+	padding-right: 20px;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+	padding-right: 20px;
+}
